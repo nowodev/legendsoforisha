@@ -88,7 +88,7 @@
       <div class="row align-items-center">
         <div class="col-lg-10 mx-auto">
           <div>
-            <video width="320" height="240" controls)">
+            <video width="320" height="240" controls">
               <source src="@url('assets/videos/promoVid.mp4')" type="video/mp4">
               {{-- <source src="movie.ogg" type="video/ogg"> --}}
             Your browser does not support the video tag.
