@@ -1,38 +1,57 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="@yield('pageDescription', $siteDescription)">
-
     <title>{{$siteName}} @yield('pageTitle')</title>
 
-    <link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <!-- CSS -->
     <link rel="stylesheet" href="@url('assets/css/all.css')">
-</head>
 
-<body>
+    <link href="@url('assets/css/fonts/etline-font.min.css')" rel="stylesheet">
+    <link href="@url('assets/css/fonts/fontawesome/all.min.css')" rel="stylesheet">
+    <link href="@url('assets/css/fonts/pe-icon-7-stroke.css')" rel="stylesheet">
+    <link href="@url('assets/css/fonts/themify-icons.css')" rel="stylesheet">
 
-<nav>
-    <div class="wrapper">
-        <strong>{{$siteName}}</strong>
+    <link href="@url('assets/plugins/owl.carousel/owl.carousel.min.css')" rel="stylesheet">
+    
+    <link href="@url('assets/css/main.css')" rel="stylesheet">
+    <link href="@url('assets/css/styles.css')" rel="stylesheet">
+    
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    <link rel="icon" href="assets/img/favicon.png">
 
-        <ul>
-            <li><a href="@url('/')">Home</a></li>
-            <li><a href="@url('blog')">Blog</a></li>
-            <li><a href="@url('about')">About</a></li>
-            <li><a href="https://github.com/themsaid/katana">Github</a></li>
-            <li><a href="https://themsaid.github.io/katana">Docs</a></li>
-        </ul>
-    </div>
-</nav>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
 
-<div class="wrapper m-t-30">
+
+  <body class="page-body">
+    
+    @include('_includes.nav')
+
     @yield('body')
-</div>
 
-<div class="clearfix"></div>
+      <!-- jQuery -->
+    <script src="@url('assets/js/jquery.min.js')"></script>
 
-</body>
+    <!-- Bootstrap -->
+    <script src="@url('assets/js/bootstrap.min.js')"></script>
+
+    <!-- User JS -->
+    <script src="@url('assets/js/scripts.js')"></script>
+
+    <!-- Main JS -->
+    <script src="@url('assets/js/main.js')" id="_mainJS" data-plugins="load"></script>
+  </body>
+
 </html>
