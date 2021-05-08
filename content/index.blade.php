@@ -5,7 +5,7 @@
 
   <main class="main-content">
 
-    <!-- content area -->
+    <!-- Tabs area -->
     <section class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light"
       style="background-image: url(assets/img/bg/bg_shape.png);">
       <div class="container">
@@ -155,7 +155,9 @@
         </div>
       </div>
     </section>
-    <!-- /.content area -->
+    <!-- /.Tabs area -->
+
+    @include('_includes.contact')
   </main>
 
 @stop
