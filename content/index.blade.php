@@ -41,7 +41,7 @@
     </div>
 
     <div class="right-side">
-        @include('_includes.sidebar')
+        {{-- @include('_includes.sidebar') --}}
     </div>
 
 @stop
