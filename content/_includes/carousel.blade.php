@@ -1,4 +1,4 @@
-<!-- header -->
+{{-- <!-- header -->
 <header class="header">
   <div id="carousel_main" class="carousel carousel-header slide carousel-fade fl-scn" data-ride="carousel">
     <!-- Indicators -->
@@ -75,6 +75,34 @@
     <!-- Carousel nav -->
     <div class="carousel-control-prev a-out-t"><a class="text-light" href="#carousel_main" data-slide="prev"><span class="icon-cl-prev text-shadow pe-7s-angle-left"></span></a></div>
     <div class="carousel-control-next a-out-t"><a class="text-light" href="#carousel_main" data-slide="next"><span class="icon-cl-next text-shadow pe-7s-angle-right"></span></a></div>
+  </div>
+</header>
+<!-- /.header --> --}}
+
+<!-- header -->
+<header id="header" class="header h-fullscreen text-light">
+  <div class="media-container parallax-window" data-parallax="scroll" data-image-src="@url('assets/img/content/carousel/slide_01.png')"></div>
+  <div class="overlay pe-n bg-dark_A-40"></div>
+  <div class="overlay d-flex align-items-center">
+    <div class="container text-center">
+      <div class="row align-items-center">
+        <div class="col-lg-10 mx-auto">
+          <div>
+            <video width="320" height="240" autoplay poster="@url('assets/img/content/carousel/slide_01.png')">
+              <source src="@url('assets/videos/promoVid.mp4')" type="video/mp4">
+              <source src="movie.ogg" type="video/ogg">
+            Your browser does not support the video tag.
+            </video> 
+            {{-- <img src="assets/img/content/game-logo.png" alt="Game Logo"> --}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="fadeIn ad-800ms">
+    <div class="down-arrow floating-arrow absolute-center-X">
+      <span class="fas fa-chevron-down"></span>
+    </div>
   </div>
 </header>
 <!-- /.header -->
