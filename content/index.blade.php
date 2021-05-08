@@ -43,7 +43,7 @@
                     <figure class="owl_item_review">
                       <div>
                         <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
                         </div>
                         <div>
                           <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
@@ -65,7 +65,7 @@
                     <figure class="owl_item_review">
                       <div>
                         <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                          <img class="m-0-auto" src="assets/img/content/cont/cg_02.png" alt="Games Store">
                         </div>
                         <div>
                           <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
@@ -87,7 +87,7 @@
                     <figure class="owl_item_review">
                       <div>
                         <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                          <img class="m-0-auto" src="assets/img/content/cont/cg_03.png" alt="Games Store">
                         </div>
                         <div>
                           <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
@@ -109,7 +109,7 @@
                     <figure class="owl_item_review">
                       <div>
                         <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                          <img class="m-0-auto" src="assets/img/content/cont/cg_04.png" alt="Games Store">
                         </div>
                         <div>
                           <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
@@ -131,7 +131,7 @@
                     <figure class="owl_item_review">
                       <div>
                         <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.jpg" alt="Games Store">
+                          <img class="m-0-auto" src="assets/img/content/cont/cg_03.png" alt="Games Store">
                         </div>
                         <div>
                           <h5 class="owl_item_title text-lt"><a href="">Donec dignissim ...</a></h5>
