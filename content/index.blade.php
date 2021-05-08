@@ -1,7 +1,7 @@
-main@extends('_includes.base')
+@extends('_includes.base')
 
 @section('body')
-  @include('_components.carousel')
+  @include('_includes.carousel')
 
   <main class="main-content">
 
