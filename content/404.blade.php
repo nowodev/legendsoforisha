@@ -6,7 +6,7 @@
 
     <!-- content area -->
     <div class="container">
-      <img src="@url('assets/img/content/carousel/slide_01.png')" class="d-none d-md-inline mb-6" alt="404">
+      <img src="assets/img/content/carousel/slide_01.png" class="d-none d-md-inline mb-6" alt="404">
       <h2 class="display-md-4">404 - Nothing to see here</h2>
       <p class="lead">You may have mistyped the address because this page doesn't exist.</p>
       <br>
