@@ -44,6 +44,7 @@
       position: fixed;
       top: 0;
       left: 0;
+      opacity: 0.5;
     }
 
   </style>
@@ -80,9 +81,8 @@
       <div class="row align-items-center">
         <div class="col-lg-10 mx-auto">
           <div>
-            <video id="myVideo" controls>
-              <source src="assets/videos/promoVid.mp4" poster="assets/img/content/carousel/slide_01.png"
-                type="video/mp4">
+            <video id="myVideo" playsinline autoplay muted loop poster="assets/img/content/carousel/slide_01.png">
+              <source src="assets/videos/promoVid.mp4" type="video/mp4">
               Your browser does not support this video.
             </video>
           </div>
