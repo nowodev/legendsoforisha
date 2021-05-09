@@ -11,15 +11,15 @@
   <!-- CSS -->
   <link rel="stylesheet" href="@url('assets/css/all.css')">
 
-  <link href="@url('assets/css/fonts/etline-font.min.css')" rel="stylesheet">
-  <link href="@url('assets/css/fonts/fontawesome/all.min.css')" rel="stylesheet">
-  <link href="@url('assets/css/fonts/pe-icon-7-stroke.css')" rel="stylesheet">
-  <link href="@url('assets/css/fonts/themify-icons.css')" rel="stylesheet">
+  <link href="assets/css/fonts/etline-font.min.css" rel="stylesheet">
+  <link href="assets/css/fonts/fontawesome/all.min.css" rel="stylesheet">
+  <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+  <link href="assets/css/fonts/themify-icons.css" rel="stylesheet">
 
-  <link href="@url('assets/plugins/owl.carousel/owl.carousel.min.css')" rel="stylesheet">
+  <link href="assets/plugins/owl.carousel/owl.carousel.min.css" rel="stylesheet">
 
-  <link href="@url('assets/css/main.css')" rel="stylesheet">
-  <link href="@url('assets/css/styles.css')" rel="stylesheet">
+  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/styles.css" rel="stylesheet">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
@@ -47,13 +47,13 @@
 
 
   <!-- jQuery -->
-  <script src="@url('assets/js/jquery.min.js')"></script>
+  <script src="assets/js/jquery.min.js"></script>
   <!-- Bootstrap -->
-  <script src="@url('assets/js/bootstrap.min.js')"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
   <!-- User JS -->
-  <script src="@url('assets/js/scripts.js')"></script>
+  <script src="assets/js/scripts.js"></script>
   <!-- Main JS -->
-  <script src="@url('assets/js/main.js')" id="_mainJS" data-plugins="load"></script>
+  <script src="assets/js/main.js" id="_mainJS" data-plugins="load"></script>
 </body>
 
 </html>
