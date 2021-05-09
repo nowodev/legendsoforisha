@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row gutters-y">
       <div class="col-6 col-lg-3">
-        <a href="#" class="logo d-block mb-4"><img src="assets/img/logo-gaming.png" alt="Wicodus" class="logo-dark"></a>
+        <a href="#" class="logo d-block mb-4"><img src="assets/img/logo.png" alt="Wicodus" class="logo-dark"></a>
         <p>Dimension 11 is a gaming studio that chokes. E choke die...</p>
         {{-- <div class="social-buttons">
               <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
