@@ -20,6 +20,7 @@
 
   <link href="assets/css/main.css" rel="stylesheet">
   <link href="assets/css/styles.css" rel="stylesheet">
+  <link href="assets/css/custom.css" rel="stylesheet">
 
   <!-- Favicons -->
   <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
