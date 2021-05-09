@@ -1,7 +1,5 @@
 <!-- header -->
 <header id="header" class="header h-fullscreen text-light">
-  <div class="media-container parallax-window" data-parallax="scroll"
-    data-image-src="@url('assets/img/content/carousel/slide_01.png')"></div>
   <div class="overlay pe-n bg-dark_A-40"></div>
   <div class="overlay d-flex align-items-center">
     <div class="container text-center">
