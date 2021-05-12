@@ -1,5 +1,5 @@
 <!-- Contact Us area -->
-<section id="socials" class="content-section latest-articles text-light">
+<section id="gallery" class="content-section latest-articles text-light">
   <div class="container">
     <header class="section-header text-center">
       <h2>Follow Our Progress</h2>
