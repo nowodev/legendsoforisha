@@ -2,23 +2,34 @@
 <footer class="footer footer-dark bg-dark py-9">
   <div class="container">
     <div class="row gutters-y">
-      <div class="col-6 col-lg-3">
+      <div class="col">
         <a href="#" class="logo d-block mb-4"><img src="assets/img/logo.png" alt="Wicodus" class="logo-dark"></a>
-        <p>Dimension 11 is a gaming studio that chokes. E choke die...</p>
-        {{-- <div class="social-buttons">
-              <a class="social-twitter" href="#"><i class="fab fa-twitter"></i></a>
-              <a class="social-dribbble" href="#"><i class="fab fa-dribbble"></i></a>
-              <a class="social-instagram" href="#"><i class="fab fa-instagram"></i></a>
-            </div> --}}
+        <p>Legends of Orisha is a game that chokes. E choke die...</p>
+        <div class="social-buttons mb-4">
+          <a class="social-instagram" href="https://www.instagram.com/dimension11studios/"><i class="fab fa-instagram"></i></a>
+          <a class="social-twitter" href="https://discord.gg/b66VVuU6wt"><i class="fab fa-discord"></i></a>
+          <a class="social-instagram" href="https://www.youtube.com/channel/UCzgUzhZAUbJk6Czb6cxJ0TA"><i class="fab fa-youtube"></i></a>
+          <a class="social-twitter" href="https://www.linkedin.com/company/dimension-11"><i class="fab fa-linkedin"></i></a>
+        </div>
+        <a id="contact" href="tel:123456789"><i class="fas fa-phone"></i> 123456789</a>
       </div>
 
-      <div class="col-6 col-lg-2">
+      {{-- <div class="col-6">
+        <div class="nav nav-bold-style text-uppercase">
+          <a class="nav-link py-1 pb-sm-0" href="about.html">About</a>
+          <a class="nav-link py-1 pb-sm-0" href="news.html">News</a>
+          <a class="nav-link py-1 pb-sm-0" href="store.html">Store</a>
+          <a class="nav-link py-1 pb-sm-0" href="contact.html">Contact</a>
+        </div>
+      </div> --}}
+
+      {{-- <div class="col-6 col-lg-2">
         <h6 class="text-uppercase fw-600 mb-4">About</h6>
         <div class="nav flex-column">
           <a class="nav-link" href="about.html">Our team</a>
           <a class="nav-link" href="about.html">Careers</a>
-          {{-- <a class="nav-link" href="about.html">Cookie Policy</a>
-              <a class="nav-link" href="about.html">Privacy Policy</a> --}}
+          <a class="nav-link" href="about.html">Cookie Policy</a>
+              <a class="nav-link" href="about.html">Privacy Policy</a>
 
         </div>
       </div>
@@ -39,9 +50,9 @@
           <a class="nav-link" href="contact.html">Contact Us</a>
           <a class="nav-link" href="contact.html">Support</a>
           <a class="nav-link" href="contact.html">Terms & conditions</a>
-          {{-- <a class="nav-link" href="contact.html">Refund policy</a> --}}
+          <a class="nav-link" href="contact.html">Refund policy</a>
         </div>
-      </div>
+      </div> --}}
 
       {{-- <div class="col col-lg-3 order-lg-last">
             <div class="mb-6">
@@ -68,4 +79,13 @@
     </div>
   </div>
 </footer>
+<div class="bg-dark-end py-6 text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <span class="ls-1 fw-500">© Dimension 11 Studios, <script>document.write(new Date().getFullYear());</script>. All Rights Reserved.</span>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- /.footer -->
