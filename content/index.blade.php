@@ -6,11 +6,11 @@
   <main class="main-content">
 
     <!-- Tabs area -->
-    <section class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light"
+    <section id="characters" class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light"
       style="background-image: url(assets/img/bg/bg_shape.png);">
       <div class="container">
         <header class="header">
-          <h2>AVAILABLE CHARACTERS</h2>
+          <h2>CHARACTERS</h2>
         </header>
         <div class="position-relative">
           <!-- nav tabs -->
