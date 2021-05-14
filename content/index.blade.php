@@ -3,12 +3,6 @@
 @section('body')
   @include('_includes.header')
 
-  <widgetbot
-  server="299881420891881473"
-  channel="355719584830980096"
-  width="800"
-  height="600"
-></widgetbot>
   <main class="main-content">
 
     <!-- Tabs area -->
