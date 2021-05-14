@@ -49,6 +49,24 @@
     }
 
   </style>
+
+
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+    new Crate({
+      server: '774034212797808661',
+      channel: '774034213228904457'
+    })
+
+  </script>
+  {{-- <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '299881420891881473',
+    channel: '355719584830980096'
+  })
+</script> --}}
+
+
 </head>
 
 
