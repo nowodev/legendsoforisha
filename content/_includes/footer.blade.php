@@ -4,14 +4,14 @@
     <div class="row gutters-y">
       <div class="col">
         <a href="#" class="d-block mb-4"><img src="assets/img/logo.png" alt="Wicodus" class="nav-img logo-dark"></a>
-        <p>Legends of Orisha is a game that chokes. E choke die...</p>
+        <p class="text-justify">Legendsoforisha: Blood and Water is currently under development by Dimension11 Studios, a diverse team of Artists, Programmers from all over the world, with it's headquaters in Lagos, Nigeria.</p>
         <div class="social-buttons mb-4">
           <a class="social-instagram" href="https://www.instagram.com/dimension11studios/"><i class="fab fa-instagram"></i></a>
           <a class="social-twitter" href="https://discord.gg/b66VVuU6wt"><i class="fab fa-discord"></i></a>
           <a class="social-instagram" href="https://www.youtube.com/channel/UCzgUzhZAUbJk6Czb6cxJ0TA"><i class="fab fa-youtube"></i></a>
           <a class="social-twitter" href="https://www.linkedin.com/company/dimension-11"><i class="fab fa-linkedin"></i></a>
         </div>
-        <a id="contact" href="tel:123456789"><i class="fas fa-phone"></i> 123456789</a>
+        <a id="contact" href="tel:08027906856"><i class="fas fa-phone"></i> 08027906856</a>
       </div>
 
       {{-- <div class="col-6">
