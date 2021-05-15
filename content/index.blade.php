@@ -4,6 +4,10 @@
   @include('_includes.header')
 
   <main class="main-content">
+    {{-- CHARACTERS SECTION  --}}
+    @include('_includes.characters')
+    {{-- CHARACTERS SECTION  --}}
+    
     {{-- DISCORD SERVER SECTION  --}}
     @include('_includes.discord')
     {{-- DISCORD SERVER SECTION  --}}
