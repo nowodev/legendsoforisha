@@ -95,7 +95,7 @@
 
 <!-- Characters area -->
 <section id="characters" class="characters content-section latest-articles text-light">
-  <div class="container">
+  <div class="container text-justify">
     <header class="section-header text-center">
       <h2>Characters</h2>
       <hr class="w-10 border-warning border-top-2 o-90">
