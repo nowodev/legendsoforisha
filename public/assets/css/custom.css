@@ -13,11 +13,6 @@ body, h1, h2, h3, h4, h5, h6, div {
   margin-top: 20px;
 }
 
-.navbar {
-  /* opacity: 0.6; */
-  background-color: none;
-}
-
 #bgvid {
   object-fit: cover;
   width: 100vw;
