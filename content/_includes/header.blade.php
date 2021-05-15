@@ -11,7 +11,7 @@
               <source src="assets/videos/promoVidSmall.webm" type="video/webm">
               Your browser does not support this video.
             </video>
-            
+
             <div id="bg-img">
               <img src="assets/img/site_image/small_bg.jpg" alt="">
             </div>
@@ -24,11 +24,13 @@
                   <div>
                     <h2 class="ls-1">About</h2>
                     <hr class="w-10 border-warning border-top-2 o-90">
-                    <p class="lead-1">Quisque sit amet erat posuere scelerisque. Quisque fermentum eget arcu aliquet
-                      tempor. Phasellus sit amet bibendum diam, sed vulputate magna. Proin ante dolor, ultricies ac
-                      laoreet sed, fermentum sit amet nulla. Suspendisse bibendum dictum tempus. Aliquam turpis mauris,
-                      sagittis vitae egestas a, scelerisque. Donec justo turpis, porta a urna vitae, convallis lobortis
-                      risus. Integer porta malesuada tristique. Nullam aliquet mattis sollicitudin.</p>
+                    <p class="lead-1">A former soldier of the fallen ancient Empire of Oyo searches for reason when fate
+                      and his past come hunting.
+                      Remilekun is thrust back into his armour when his quiet life in retirement is threatened by a
+                      mysterious force killing and burning to get him. He must confront destiny, must make companions of
+                      entities ancient and powerful and to find truth and redemption for the fate of men and gods may
+                      rest of the strength of his heart and the sharpness of his blade.
+                    </p>
                   </div>
                 </div>
               </div>
