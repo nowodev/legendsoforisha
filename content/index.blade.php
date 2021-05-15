@@ -141,7 +141,13 @@
     {{-- DISCORD SERVER SECTION  --}}
 
     {{-- YOUTUBE CAROUSEL  --}}
-    <div data-mc-src="cd9d51fe-cb16-46ac-b4c1-872767aed16c#youtube"></div>
+    <section id="server" class="content-section latest-articles text-light">
+      <div class="about-features content-section bp-c br-n bs-c" style="background-image: url(assets/img/bg/bg_shape.png)">
+        <div class="container-fluid text-center">
+          <div data-mc-src="cd9d51fe-cb16-46ac-b4c1-872767aed16c#youtube" class="mx-auto w-100"></div> 
+        </div>
+      </div>
+    </section>
     {{-- YOUTUBE CAROUSEL  --}}
 
     {{-- FOLLOW OUR PROGRESS  --}}
