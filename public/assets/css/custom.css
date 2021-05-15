@@ -1,15 +1,16 @@
 @font-face {
   font-family: Trajan;
-  src: url('assets/css/fonts/Trajan_Bold.ttf');
+  src: url('assets/css/fonts/TrajanPro-Bold.otf');
 }
 
-body {
+body, h1, h2, h3, h4, h5, h6, div {
   font-family: Trajan;
 }
 
 .nav-img {
   width: 230px;
   height: 100px;
+  margin-top: 20px;
 }
 
 
