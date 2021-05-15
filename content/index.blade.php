@@ -136,8 +136,17 @@
     </section>
     <!-- /.Tabs area -->
 
+    {{-- DISCORD SERVER SECTION  --}}
     @include('_includes.discord')
+    {{-- DISCORD SERVER SECTION  --}}
+
+    {{-- YOUTUBE CAROUSEL  --}}
+    <div data-mc-src="cd9d51fe-cb16-46ac-b4c1-872767aed16c#youtube"></div>
+    {{-- YOUTUBE CAROUSEL  --}}
+
+    {{-- FOLLOW OUR PROGRESS  --}}
     @include('_includes.social')
+    {{-- FOLLOW OUR PROGRESS  --}}
   </main>
 
 @stop
