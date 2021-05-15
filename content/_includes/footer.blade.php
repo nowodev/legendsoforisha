@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row gutters-y">
       <div class="col">
-        <a href="#" class="logo d-block mb-4"><img src="assets/img/logo.png" alt="Wicodus" class="logo-dark"></a>
+        <a href="#" class="d-block mb-4"><img src="assets/img/logo.png" alt="Wicodus" class="nav-img logo-dark"></a>
         <p>Legends of Orisha is a game that chokes. E choke die...</p>
         <div class="social-buttons mb-4">
           <a class="social-instagram" href="https://www.instagram.com/dimension11studios/"><i class="fab fa-instagram"></i></a>

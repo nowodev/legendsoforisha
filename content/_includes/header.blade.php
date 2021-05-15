@@ -13,7 +13,7 @@
             </video>
 
             <div id="bg-img">
-              <img src="assets/img/site_image/small_bg.jpg" alt="">
+              <img src="assets/img/site_image/small_bg.jpg" alt="Background Image">
             </div>
           </div>
           <section id="about" class="content-section position-relative text-light text-center parallax-window"
