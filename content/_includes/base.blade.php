@@ -49,7 +49,8 @@
 </head>
 
 
-<body class="page-body">
+{{-- <body class="page-body"> --}}
+<body>
   @include('_includes.nav')
 
   @yield('body')

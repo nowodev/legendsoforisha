@@ -37,31 +37,17 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  <style>
-    #myVideo {
-      object-fit: cover;
-      width: 100vw;
-      height: 100vh;
-      position: fixed;
-      top: 0;
-      left: 0;
-      opacity: 0.5;
-    }
-
-  </style>
-
-
   <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
     <script src="https://cdn2.woxo.tech/a.js#609f3871165a3b00151250c8" async data-usrc></script>
 </head>
 
 
-<body class="page-body">
+<body>
   <!-- navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top border-nav">
+<nav class="navbar navbar-expand-lg nav-bg fixed-top">
   <div class="container">
     <a class="navbar-brand align-items-center logo mx-auto" href="#">
-      <img src="assets/img/logo.png" alt="Wicodus" class="logo-light mx-auto">
+      <img src="assets/img/logo.png" alt="Legends of Orisha" class="logo-light mx-auto">
     </a>
       </div>
 </nav>
@@ -74,20 +60,29 @@
       <div class="row align-items-center">
         <div class="col-lg-10 mx-auto">
           <div>
-            <video id="myVideo" playsinline autoplay muted loop poster="assets/img/content/carousel/slide_01.png">
+            <video id="bgvid" playsinline autoplay muted loop poster="assets/img/site_image/bg.png">
               <source src="assets/videos/promoVidSmall.mp4" type="video/mp4">
               <source src="assets/videos/promoVidSmall.webm" type="video/webm">
               Your browser does not support this video.
             </video>
+            
+            <div id="bg-img">
+              <img src="assets/img/site_image/small_bg.jpg" alt="">
+            </div>
           </div>
-          <section id="about" class="content-section position-relative text-light text-center parallax-window" data-parallax="scroll" data-overlay="">
+          <section id="about" class="content-section position-relative text-light text-center parallax-window"
+            data-parallax="scroll" data-overlay="">
             <div class="container position-relative">
               <div class="row">
                 <div class="col-lg-8 mx-auto">
                   <div>
                     <h2 class="ls-1">About</h2>
                     <hr class="w-10 border-warning border-top-2 o-90">
-                    <p class="lead-1">Quisque sit amet erat posuere scelerisque. Quisque fermentum eget arcu aliquet tempor. Phasellus sit amet bibendum diam, sed vulputate magna. Proin ante dolor, ultricies ac laoreet sed, fermentum sit amet nulla. Suspendisse bibendum dictum tempus. Aliquam turpis mauris, sagittis vitae egestas a, scelerisque. Donec justo turpis, porta a urna vitae, convallis lobortis risus. Integer porta malesuada tristique. Nullam aliquet mattis sollicitudin.</p>
+                    <p class="lead-1">Quisque sit amet erat posuere scelerisque. Quisque fermentum eget arcu aliquet
+                      tempor. Phasellus sit amet bibendum diam, sed vulputate magna. Proin ante dolor, ultricies ac
+                      laoreet sed, fermentum sit amet nulla. Suspendisse bibendum dictum tempus. Aliquam turpis mauris,
+                      sagittis vitae egestas a, scelerisque. Donec justo turpis, porta a urna vitae, convallis lobortis
+                      risus. Integer porta malesuada tristique. Nullam aliquet mattis sollicitudin.</p>
                   </div>
                 </div>
               </div>
@@ -107,99 +102,6 @@
 <!-- /.header -->
 
   <main class="main-content">
-
-    <!-- Tabs area -->
-    <section id="characters" class="content-section owl-carousel-spotlight carousel-spotlight ig-carousel text-light"
-      style="background-image: url(assets/img/bg/bg_shape.png);">
-      <div class="container">
-        <header class="header">
-          <h2>CHARACTERS</h2>
-        </header>
-        <div class="position-relative">
-          <!-- nav tabs -->
-                    <!-- /.nav tabs -->
-
-          <!-- tab panes -->
-          <div id="color_sel_Carousel-content" class="tab-content fl-scn relative w-100">
-
-            <!-- tab item -->
-            <div class="tab-pane fade show active" id="mp-01-c" role="tabpanel" aria-labelledby="mp-01-tab">
-              <div class="owl-carousel gs-carousel" data-carousel-margin="30" data-carousel-nav="true"
-                data-carousel-navText="<span class='icon-cl-next pe-7s-angle-left'></span>, <span class='icon-cl-next pe-7s-angle-right'></span>">
-                <!-- item -->
-                <div class="item">
-                  <div class="item-cont">
-                    <figure class="owl_item_review">
-                      <div>
-                        <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_01.png" alt="Games Store">
-                        </div>
-                        <div>
-                          <h5 class="owl_item_title text-lt"><a href="">E CHOKE</a></h5>
-                                                  </div>
-                      </div>
-                    </figure>
-                  </div>
-                </div>
-                <!-- /.item -->
-                <!-- item -->
-                <div class="item">
-                  <div class="item-cont">
-                    <figure class="owl_item_review">
-                      <div>
-                        <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_02.png" alt="Games Store">
-                        </div>
-                        <div>
-                          <h5 class="owl_item_title text-lt"><a href="">CHOKEE</a></h5>
-                                                  </div>
-                      </div>
-                    </figure>
-                  </div>
-                </div>
-                <!-- /.item -->
-                <!-- item -->
-                <div class="item">
-                  <div class="item-cont">
-                    <figure class="owl_item_review">
-                      <div>
-                        <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_03.png" alt="Games Store">
-                        </div>
-                        <div>
-                          <h5 class="owl_item_title text-lt"><a href="">CHOKER</a></h5>
-                                                  </div>
-                      </div>
-                    </figure>
-                  </div>
-                </div>
-                <!-- /.item -->
-                <!-- item -->
-                <div class="item">
-                  <div class="item-cont">
-                    <figure class="owl_item_review">
-                      <div>
-                        <div class="position-relative overflow-hidden">
-                          <img class="m-0-auto" src="assets/img/content/cont/cg_04.png" alt="Games Store">
-                        </div>
-                        <div>
-                          <h5 class="owl_item_title text-lt"><a href="">CHOKED</a></h5>
-                                                  </div>
-                      </div>
-                    </figure>
-                  </div>
-                </div>
-                <!-- /.item -->
-              </div>
-            </div>
-            <!-- /.tab item -->
-          </div>
-          <!-- /.tab panes -->
-        </div>
-      </div>
-    </section>
-    <!-- /.Tabs area -->
-
         <!-- Discord Server area -->
 <section id="server" class="content-section latest-articles text-light" style="background-image: url(assets/img/bg/bg_shape.png)">
   <div class="about-features content-section bp-c br-n bs-c">
@@ -249,17 +151,17 @@
               </a>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 mb-6 mb-lg-0">
-            <div class="display-4 mb-6"">
-              <a href="https://discord.gg/b66VVuU6wt">
-                <i class="fab fa-discord fa-2x" style="color: #8899f7;"></i>
-              </a>
-            </div>
-          </div>
           <div class="col-md-6 col-lg-3 mb-6 mb-md-0">
             <div class="display-4 mb-6">
               <a href="https://www.youtube.com/channel/UCzgUzhZAUbJk6Czb6cxJ0TA">
                 <i class="fab fa-youtube fa-2x" style="color: #fc0000"></i>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 mb-6 mb-lg-0">
+            <div class="display-4 mb-6"">
+              <a href="https://discord.gg/b66VVuU6wt">
+                <i class="fab fa-discord fa-2x" style="color: #8899f7;"></i>
               </a>
             </div>
           </div>
