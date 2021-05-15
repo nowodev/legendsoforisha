@@ -1,6 +1,6 @@
 <!-- header -->
 <header id="header" class="header h-fullscreen text-light">
-  <div class="overlay pe-n bg-dark_A-40"></div>
+  <div class="overlay pe-n"></div>
   <div class="overlay d-flex align-items-center">
     <div class="container text-center">
       <div class="row align-items-center">
