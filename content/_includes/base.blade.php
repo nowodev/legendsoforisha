@@ -49,7 +49,7 @@
 </head>
 
 
-<body class="page-body">
+<body class="page-body text-uppercase">
 {{-- <body> --}}
   @include('_includes.nav')
 
