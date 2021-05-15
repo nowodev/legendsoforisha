@@ -19,17 +19,17 @@
               </a>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 mb-6 mb-lg-0">
-            <div class="display-4 mb-6"">
-              <a href="https://discord.gg/b66VVuU6wt">
-                <i class="fab fa-discord fa-2x" style="color: #8899f7;"></i>
-              </a>
-            </div>
-          </div>
           <div class="col-md-6 col-lg-3 mb-6 mb-md-0">
             <div class="display-4 mb-6">
               <a href="https://www.youtube.com/channel/UCzgUzhZAUbJk6Czb6cxJ0TA">
                 <i class="fab fa-youtube fa-2x" style="color: #fc0000"></i>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 mb-6 mb-lg-0">
+            <div class="display-4 mb-6"">
+              <a href="https://discord.gg/b66VVuU6wt">
+                <i class="fab fa-discord fa-2x" style="color: #8899f7;"></i>
               </a>
             </div>
           </div>
