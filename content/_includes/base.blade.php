@@ -37,20 +37,6 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  <style>
-    #myVideo {
-      object-fit: cover;
-      width: 100vw;
-      height: 100vh;
-      position: fixed;
-      top: 0;
-      left: 0;
-      opacity: 0.5;
-    }
-
-  </style>
-
-
   <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
   {{-- <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
     new Crate({
