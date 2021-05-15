@@ -1,6 +1,6 @@
 <!-- Discord Server area -->
-<section id="server" class="content-section latest-articles text-light">
-  <div class="about-features content-section bp-c br-n bs-c" style="background-image: url(assets/img/bg/bg_shape.png)">
+<section id="server" class="content-section latest-articles text-light" style="background-image: url(assets/img/bg/bg_shape.png)">
+  <div class="about-features content-section bp-c br-n bs-c">
     <div class="container-fluid text-center">
       
       <div class="row gutters-y">
