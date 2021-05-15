@@ -1,8 +1,8 @@
 <!-- navbar -->
-<nav class="navbar navbar-expand-lg nav-bg fixed-top">
+<nav class="navbar navbar-expand-lg">
   <div class="container">
     <a class="navbar-brand align-items-center mx-auto" href="#">
-      <img src="assets/img/logo.png" alt="Legends of Orisha" class="nav-img logo-light mx-auto">
+      <img src="assets/img/logo.png" alt="Legends of Orisha" class="nav-img mx-auto">
     </a>
     {{-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">☰</button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
