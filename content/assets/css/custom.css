@@ -1,3 +1,12 @@
+@font-face {
+  font-family: Trajan;
+  src: url('assets/css/fonts/Trajan_Bold.ttf');
+}
+
+body {
+  font-family: Trajan;
+}
+
 #bgvid {
   object-fit: cover;
   width: 100vw;
