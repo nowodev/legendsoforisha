@@ -136,8 +136,8 @@
     </section>
     <!-- /.Tabs area -->
 
-    @include('_includes.social')
     @include('_includes.discord')
+    @include('_includes.social')
   </main>
 
 @stop
