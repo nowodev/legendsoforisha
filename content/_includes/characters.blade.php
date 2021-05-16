@@ -136,7 +136,7 @@
             <figcaption>
               <h5 class="mt-1 text-unset"><a href="#">Yemisi</a></h5>
               <hr class="my-4 border-secondary">
-              <p><i>'Bami doesn't notice anything'.</i>A child of six. Smart and intuitive and a bit of a talkative. She
+              <p><i>'Bami doesn't notice anything'.</i> A child of six. Smart and intuitive and a bit of a talkative. She
                 is heavily affectionate and a happy child and the only person we see in the village that is special
                 enough to gain Remi's, whom she fondly calls Remi, affection. He also fondly calls her Simi. She isn't a
                 normal girl child as she undergoes a mild warrior training under Remi, who teaches her hunting and
@@ -152,8 +152,10 @@
             <figcaption>
               <h5 class="mt-1 text-unset"><a href="#">Remilekun</a></h5>
               <hr class="my-4 border-secondary">
-              <p>Yemisi's elder brother and first child of the family. Born away from the village and catered for by his
-                grandparents, Bamiloye joins his family after the death of his father.</p>
+              <p><i>'Ogun, do not forsake me'.</i> Our main character. He is the experienced warrior with a certain
+                trauma which he seems to be running away from. He is kind but reluctant to let anyone get too close to
+                him for fear that he might lose them and that his affection might get in the way of his assignment at
+                any given time.</p>
             </figcaption>
           </figure>
         </article>
