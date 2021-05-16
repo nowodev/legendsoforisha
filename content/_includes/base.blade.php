@@ -43,14 +43,37 @@
       server: '774034212797808661',
       channel: '774034213228904457'
     })
-
   </script> --}}
   <script src="https://cdn2.woxo.tech/a.js#609f3871165a3b00151250c8" async data-usrc></script>
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MGM73GF');
+
+  </script>
+  <!-- End Google Tag Manager -->
 </head>
 
 
 <body class="page-body text-uppercase">
-{{-- <body> --}}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGM73GF" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
   @include('_includes.nav')
 
   @yield('body')
